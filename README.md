@@ -9,40 +9,13 @@
 - 경력
     - 現 연세대학교 빅데이터 학회 YBIGTA 회원
     - 現 이글이글 서비스 백엔드 리드 개발자
-    - 前 싱글 앨범 2개 발매, 총 프로듀싱
-
-# ⌨️ Proficiency
-
-개발 경험이 있는 프로그래밍 언어 및 기술 스택입니다. 능숙도에 따라 분류되어 있습니다.
-
-```
-🥇 가장 능숙한 편
-🥈 어느 정도 능숙
-🥉 사용해 본 적 있음
-```
 
 ## Programming Language
 
-- C / C++ 🥇
-- Java 🥈
-- Python 🥇
-- Javascript / Typescript 🥇
-- SQL (MySQL, PostgreSQL) 🥈
-- PHP 🥉
+- Kotlin/Java
+- Javascript/Typescript
+- Python
 
-## Frameworks / Technologies
-
-- Node.js / Express 🥇
-- Jest / Postman for TDD 🥈
-- Monorepo / Lerna / Yarn 🥈
-- Docker 🥉
-- MongoDB 🥈
-- Redis 🥈
-- Spring Boot / JPA 🥈
-- Spark, Hadoop 🥉
-- AWS EC2 / RDS / S3 🥈
-- Keras, Tensorflow 🥈
-- OpenCV 🥉
 
 # 📂 Projects
 
